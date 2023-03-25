@@ -1,0 +1,15 @@
+DATE AND TIME : Sat Mar 18 18:56:53 2023
+BUG ID : 1
+
+BUG FILED BY: bug1.txt
+
+TYPE OF BUG: compilation error
+BUG PRIORITY: low
+
+BUG DESCRIPTION: An error occured during the compilaiton of the program
+
+DATE AND TIME : Sat Mar 18 18:56:53 2023
+BUG STATUS: IN PROCESS
+
+DATE AND TIME : Sat Mar 18 18:57:22 2023
+BUG STATUS: FIXED
